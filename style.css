@@ -2,4 +2,12 @@ h1{
   font-size: 50px;
   font-style: italic;
   background-color: cyan;
+  margin-top: 20px;
+}
+
+
+p{
+  margin-top: 30px;
+  font-size: 30px;
+  background-color: #f26262;
 }
